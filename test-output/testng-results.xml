@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28372" started-at="2017-02-15T12:09:13Z" finished-at="2017-02-15T12:09:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28372" started-at="2017-02-15T12:09:13Z" finished-at="2017-02-15T12:09:41Z">
+      <class name="Script.InvalidLogin">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:Script.InvalidLogin@4520ebad]" name="preCondition" is-config="true" duration-ms="11418" started-at="2017-02-15T17:39:13Z" finished-at="2017-02-15T17:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testInvalidLogin()[pri:0, instance:Script.InvalidLogin@4520ebad]" name="testInvalidLogin" duration-ms="16676" started-at="2017-02-15T17:39:24Z" finished-at="2017-02-15T17:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:Script.InvalidLogin@4520ebad]" name="postCondition" is-config="true" duration-ms="241" started-at="2017-02-15T17:39:41Z" finished-at="2017-02-15T17:39:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- Script.InvalidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
